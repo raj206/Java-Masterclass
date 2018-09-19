@@ -3,6 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+    Car Nissan = new Car();
+    Car Mercedes  = new Car();
+    Nissan.setModel("Ultima");
     }
 }
